@@ -28,6 +28,10 @@ A lightweight JavaScript image slider featuring **Next**, **Previous**, **Autopl
 
 
 
+https://github.com/user-attachments/assets/94696cdd-3a7c-41b3-9289-28fce13c6a47
+
+
+
 
 
 
